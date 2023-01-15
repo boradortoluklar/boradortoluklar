@@ -7,7 +7,7 @@
  </abc>
  </h2>
 
-<br/>
+<br style="margin-top:10px"/>
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=boradortoluklar&theme=highcontrast)](https://git.io/streak-stats)
 

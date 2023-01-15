@@ -7,8 +7,6 @@
  </abc>
  </h2>
 
-## -----------------------------------------------------
-
  [![GitHub Streak](https://streak-stats.demolab.com/?user=boradortoluklar&theme=highcontrast)](https://git.io/streak-stats)
 
 ##  🛠 Technologies and Tools I use:

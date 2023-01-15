@@ -7,8 +7,11 @@
  </abc>
  </h2>
 
+<br>
+
  [![GitHub Streak](https://streak-stats.demolab.com/?user=boradortoluklar&theme=highcontrast)](https://git.io/streak-stats)
 
+<br/>
 ##  🛠 Technologies and Tools I use:
 
  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,vue,nodejs,nuxtjs,tailwind,bootstrap,codepen,firebase,jest,html,css,sass,git,gitlab,github,jest)](https://skillicons.dev)

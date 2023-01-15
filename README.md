@@ -7,6 +7,10 @@
  </abc>
  </h2>
 
+<br/>
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=boradortoluklar&theme=highcontrast)](https://git.io/streak-stats)
+
 ##  🛠 Technologies and Tools I use:
 
  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,vue,nodejs,nuxtjs,tailwind,bootstrap,codepen,firebase,jest,html,css,sass,git,gitlab,github,jest)](https://skillicons.dev)
@@ -18,10 +22,6 @@
 ##  🛠 Technologies and Tools I tryin to learn:
 
  [![My Skills](https://skillicons.dev/icons?i=aws,angular,svelte,vite,appwrite,express,linux,docker,graphql,regex)](https://skillicons.dev)
-
-
- [![GitHub Streak](https://streak-stats.demolab.com/?user=boradortoluklar&theme=highcontrast)](https://git.io/streak-stats)
-
 
 Work Experience
 
